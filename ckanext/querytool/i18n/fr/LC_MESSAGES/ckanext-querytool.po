@@ -1291,13 +1291,7 @@ msgid "Go"
 msgstr "Aller"
 
 #: ckanext/querytool/templates/querytool/public/base_main.html:17
-msgid "Health Topics"
-msgstr "Thèmes de Santé"
-
 #: ckanext/querytool/templates/querytool/public/read.html:20
-msgid "Health Topics"
-msgstr "Thèmes de Santé"
-
 #: ckanext/querytool/templates/querytool/public/list.html:6
 msgid "Health Topics"
 msgstr "Thèmes de Santé"

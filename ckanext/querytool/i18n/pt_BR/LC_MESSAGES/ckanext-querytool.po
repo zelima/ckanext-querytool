@@ -1283,13 +1283,7 @@ msgid "Go"
 msgstr "Ir"
 
 #: ckanext/querytool/templates/querytool/public/base_main.html:17
-msgid "Health Topics"
-msgstr "Tópicos de Saúde"
-
 #: ckanext/querytool/templates/querytool/public/read.html:20
-msgid "Health Topics"
-msgstr "Tópicos de Saúde"
-
 #: ckanext/querytool/templates/querytool/public/list.html:6
 msgid "Health Topics"
 msgstr "Tópicos de Saúde"

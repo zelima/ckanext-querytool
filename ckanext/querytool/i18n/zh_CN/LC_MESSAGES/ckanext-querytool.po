@@ -1239,13 +1239,7 @@ msgid "Go"
 msgstr "去"
 
 #: ckanext/querytool/templates/querytool/public/base_main.html:17
-msgid "Health Topics"
-msgstr "健康主题"
-
 #: ckanext/querytool/templates/querytool/public/read.html:20
-msgid "Health Topics"
-msgstr "健康主题"
-
 #: ckanext/querytool/templates/querytool/public/list.html:6
 msgid "Health Topics"
 msgstr "健康主题"
