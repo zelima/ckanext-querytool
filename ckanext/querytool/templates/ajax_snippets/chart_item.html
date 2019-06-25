@@ -31,7 +31,7 @@
         <div id="accordion_{{ chart_id }}_general" class="accordion-body collapse in">
           <div class="accordion-inner">
 
-            
+
             {# Type #}
             {% if chart %}
               {% set selected_chart_type = chart.graph %}
@@ -90,12 +90,12 @@
               <div class="controls ">
                 <select id="chart_field_color_{{ n }}" name="chart_field_color_{{ n }}">
 
-                  <optgroup label={{ _("Single color") }}>
+                  <optgroup label="{{ _('Single color') }}">
                   {% for color in color_schemes %}
                   <option value="{{ color.value }}" {% if chart %}{{ 'selected' if color.value == chart.color }}{% endif %}>{{ color.text }}</option>
                   {% endfor %}
                   </optgroup>
-                  
+
                   <optgroup label={{ _("Diverging") }}>
                   {% set color_schemes_diverging = h.querytool_get_map_color_scheme() %}
                   {% for color_diverging in color_schemes_diverging %}
