@@ -1282,6 +1282,18 @@ msgstr "Idioma"
 msgid "Go"
 msgstr "Ir"
 
+#: ckanext/querytool/templates/querytool/public/base_main.html:17
+msgid "Health Topics"
+msgstr "Tópicos de Saúde"
+
+#: ckanext/querytool/templates/querytool/public/read.html:20
+msgid "Health Topics"
+msgstr "Tópicos de Saúde"
+
+#: ckanext/querytool/templates/querytool/public/list.html:6
+msgid "Health Topics"
+msgstr "Tópicos de Saúde"
+
 #~ msgid "Stacked area"
 #~ msgstr "Área empilhada"
 
@@ -1411,9 +1423,6 @@ msgstr "Ir"
 #~ msgid "Hover over a region"
 #~ msgstr "Passe o mouse sobre uma região"
 
-#~ msgid "Health Topics"
-#~ msgstr "Tópicos de Saúde"
-
 # Modify original translation
 #~ msgid "Y axis columns"
 #~ msgstr "Medidas"
@@ -1423,4 +1432,3 @@ msgstr "Ir"
 
 #~ msgid "Dataset name"
 #~ msgstr "Nome do conjunto de dados"
-

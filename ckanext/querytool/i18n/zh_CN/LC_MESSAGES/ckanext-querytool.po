@@ -1238,6 +1238,18 @@ msgstr "语言"
 msgid "Go"
 msgstr "去"
 
+#: ckanext/querytool/templates/querytool/public/base_main.html:17
+msgid "Health Topics"
+msgstr "健康主题"
+
+#: ckanext/querytool/templates/querytool/public/read.html:20
+msgid "Health Topics"
+msgstr "健康主题"
+
+#: ckanext/querytool/templates/querytool/public/list.html:6
+msgid "Health Topics"
+msgstr "健康主题"
+
 #~ msgid "Stacked area"
 #~ msgstr "堆叠区域"
 
@@ -1348,4 +1360,3 @@ msgstr "去"
 
 #~ msgid "Dataset name"
 #~ msgstr "数据集名称"
-
